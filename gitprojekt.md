@@ -1,10 +1,5 @@
 Webprojekt
-
-
-
-
-
-
+WebSeite erstellen
 mehr lernen
-VERSTEHE ICH NICHTS 
-kann mir emanden helfen? 
+VERSTEHE ICH NICHTS
+kann mir emanden helfen?
