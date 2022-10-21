@@ -255,3 +255,23 @@
     left: -8px;
     background-color: #000;
   }
+
+  p{
+    font-size: 100px;
+    text-align: center;
+    color: red;
+  }
+
+  .p1{
+    margin-top: 620px;
+  }
+
+  .btn{
+    font-size: xx-large;
+    color: red;
+  }
+
+ body{
+  background-color: #41bdad;
+ }
+
